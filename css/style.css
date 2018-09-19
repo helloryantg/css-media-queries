@@ -19,20 +19,17 @@ nav {
     display: flex;
 }
 
-#nav-burger {
-    
-}
-
 #nav-logo {
     width: 80px;
 }
 
-#nav-search {
-    
-}
-
-#nav-cart {
-
+#nav-signIn {
+    height: 30px;
+    width: 60px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .sm-box {
@@ -47,9 +44,8 @@ nav {
 #div1 {
     background-color: grey;
     grid-area: div1;
-    max-height: 700px;
-    max-width: 100%;
-    
+    max-height: 700px; 
+    max-width: 100%; 
 }
 
 #div1-1 {
@@ -131,4 +127,5 @@ footer {
 
 @media screen and (min-width: 1084px) {
 
-}
+} 
+
